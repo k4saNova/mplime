@@ -1,0 +1,7 @@
+pytest
+requests
+numpy
+requests
+tensorflow
+tensorflow-hub
+opencv-contrib-python
